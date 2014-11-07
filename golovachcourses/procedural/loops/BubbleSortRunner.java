@@ -1,11 +1,11 @@
 package golovachcourses.procedural.loops;
 
 /**
- * Runner is the simple class which runs Bubblesort class methods'
+ * BubbleSortRunner is the simple class which runs Bubblesort class methods'
  *
  * @author Evgeny
  */
-public class Runner {
+public class BubbleSortRunner {
 
 	public static void main(String[] args) {
 		
